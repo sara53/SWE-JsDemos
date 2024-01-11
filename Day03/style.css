@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+div{
+    background-color:#eee;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+p{
+    background-color: #aaa;
+    padding: 10px;
+    margin:10px;
+    border-radius: 5px;
+}
+
+button{
+    display: block;
+    width: 170px;
+    padding:10px;
+    border:none;
+    background-color: rgb(82, 30, 132);
+    cursor: pointer;
+    color:#fff;
+    border-radius: 5px;
+    margin: 10px;
+}
